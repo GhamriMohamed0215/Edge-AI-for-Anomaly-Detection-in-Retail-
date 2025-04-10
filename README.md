@@ -45,7 +45,7 @@ The solution uses advanced model optimization techniques and deployment tools to
 
 ## 🐳 Dockerized Deployment
 
-![Docker Deployment](images/slide20_image.png)
+![Docker Deployment](images/dockerisation.png)
 
 Docker provides:
 - Full isolation and portability
@@ -74,7 +74,7 @@ Docker provides:
 Here is an example of how our system identifies a suspicious shoplifting action:
 
 ![Detection Example1](images/V1.png)
-![Detection Example]2(images/V2.png)
+![Detection Example]2(images/v2.png)
 ---
 
 
