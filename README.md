@@ -65,7 +65,7 @@ Docker provides:
 
 📸 *Visual Comparison:*
 
-![Before/After Optimization](images/slide12_image.png)
+![Before/After Optimization](comparaison.png)
 
 ---
 
@@ -73,8 +73,8 @@ Docker provides:
 
 Here is an example of how our system identifies a suspicious shoplifting action:
 
-![Detection Example](images/slide5_image.png)
-
+![Detection Example1](images/V1.png)
+![Detection Example]2(images/V2.png)
 ---
 
 
