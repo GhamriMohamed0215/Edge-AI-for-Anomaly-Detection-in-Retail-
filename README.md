@@ -78,6 +78,3 @@ Here is an example of how our system identifies a suspicious shoplifting action:
 ---
 
 
-## 💡 Tip
-
-Upload the images shown above to your repository inside a folder named `images`. Then GitHub will render them properly.
